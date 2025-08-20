@@ -90,6 +90,13 @@ CodeAlpha_EmotionRecognition/
    ```
 
 ---
+##  Demo Video
+Watch the full walkthrough of Task 1 – Credit Scoring Model:
+
+[Demo Video on Google Drive](https://drive.google.com/file/d/1Cyn6GvmO8H0z6O6pLaExZ_UqJ7xl9rxX/view?usp=sharing)
+
+
+---
 
 ## Acknowledgments
 
