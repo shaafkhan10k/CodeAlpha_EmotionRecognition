@@ -64,9 +64,8 @@ Recognize emotions such as **happy, sad, angry, neutral, fear, disgust, surprise
 ```
 CodeAlpha_EmotionRecognition/
 │── task2_emotion_recognition.py   # Main script
-│── requirements.txt               # Dependencies
 │── README.md                      # Documentation
-│── reports/                       # Confusion matrices, accuracy plots
+
 ```
 
 ---
